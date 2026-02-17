@@ -1,1 +1,3 @@
 cek git buat remote
+
+ku tambahin ini
